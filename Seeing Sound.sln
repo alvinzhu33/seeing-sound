@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seeing Sound", "Seeing Sound.csproj", "{69C77960-2370-0D5E-F036-A6ED6ED7F601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seeing Sound.Editor", "Seeing Sound.Editor.csproj", "{4C793E56-107D-3F62-304A-3961450D527C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C77960-2370-0D5E-F036-A6ED6ED7F601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C77960-2370-0D5E-F036-A6ED6ED7F601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C77960-2370-0D5E-F036-A6ED6ED7F601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C77960-2370-0D5E-F036-A6ED6ED7F601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C793E56-107D-3F62-304A-3961450D527C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C793E56-107D-3F62-304A-3961450D527C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C793E56-107D-3F62-304A-3961450D527C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C793E56-107D-3F62-304A-3961450D527C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
