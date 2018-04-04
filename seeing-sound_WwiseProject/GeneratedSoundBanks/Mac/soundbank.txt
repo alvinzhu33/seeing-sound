@@ -1,0 +1,23 @@
+Event	ID	Name			Wwise Object Path	Notes
+	95796577	playGlass			\Default Work Unit\playGlass	
+	996452028	playMetal			\Default Work Unit\playMetal	
+	2057747321	playPlastic			\Default Work Unit\playPlastic	
+	2111847568	playWood			\Default Work Unit\playWood	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	61898681	sfx_metal_01	Y:\Documents\MIT VRLC\seeing-sound_WwiseProject\.cache\Mac\SFX\sfx_metal_01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\metal\sfx_metal_01		179808
+	82673800	sfx_wood_03	Y:\Documents\MIT VRLC\seeing-sound_WwiseProject\.cache\Mac\SFX\sfx_wood_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\wood\sfx_wood_03		105440
+	127179617	sfx_plastic_01	Y:\Documents\MIT VRLC\seeing-sound_WwiseProject\.cache\Mac\SFX\sfx_plastic_01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\plastic\sfx_plastic_01		162920
+	244784423	sfx_plastic_03	Y:\Documents\MIT VRLC\seeing-sound_WwiseProject\.cache\Mac\SFX\sfx_plastic_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\plastic\sfx_plastic_03		144638
+	309342910	sfx_wood_02	Y:\Documents\MIT VRLC\seeing-sound_WwiseProject\.cache\Mac\SFX\sfx_wood_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\wood\sfx_wood_02		125128
+	421965780	sfx_wood_01	Y:\Documents\MIT VRLC\seeing-sound_WwiseProject\.cache\Mac\SFX\sfx_wood_01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\wood\sfx_wood_01		106484
+	625992386	sfx_metal_02	Y:\Documents\MIT VRLC\seeing-sound_WwiseProject\.cache\Mac\SFX\sfx_metal_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\metal\sfx_metal_02		181004
+	661341250	sfx_plastic_02	Y:\Documents\MIT VRLC\seeing-sound_WwiseProject\.cache\Mac\SFX\sfx_plastic_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\plastic\sfx_plastic_02		133978
+	742407439	sfx_metal_03	Y:\Documents\MIT VRLC\seeing-sound_WwiseProject\.cache\Mac\SFX\sfx_metal_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\metal\sfx_metal_03		179130
+	890399901	sfx_glass_03	Y:\Documents\MIT VRLC\seeing-sound_WwiseProject\.cache\Mac\SFX\sfx_glass_03_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\glass\sfx_glass_03		121612
+	961864822	sfx_glass_02	Y:\Documents\MIT VRLC\seeing-sound_WwiseProject\.cache\Mac\SFX\sfx_glass_02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\glass\sfx_glass_02		100858
+	967764173	sfx_glass_01	Y:\Documents\MIT VRLC\seeing-sound_WwiseProject\.cache\Mac\SFX\sfx_glass_01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\glass\sfx_glass_01		109826
+

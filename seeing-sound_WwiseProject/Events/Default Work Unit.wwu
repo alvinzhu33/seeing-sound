@@ -11,7 +11,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="test" ID="{9E5F7B1E-B125-4C2F-BE65-8932937852E1}" WorkUnitID="{1B973049-1C54-435F-8B15-C7983F0C646B}"/>
+									<ObjectRef Name="plastic" ID="{A63A1D9B-22FB-402F-A73B-AC657611D10E}" WorkUnitID="{1B973049-1C54-435F-8B15-C7983F0C646B}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -25,7 +25,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="test" ID="{9E5F7B1E-B125-4C2F-BE65-8932937852E1}" WorkUnitID="{1B973049-1C54-435F-8B15-C7983F0C646B}"/>
+									<ObjectRef Name="wood" ID="{DE787972-04CE-4D70-9D24-0695328BEB86}" WorkUnitID="{1B973049-1C54-435F-8B15-C7983F0C646B}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -39,7 +39,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="test" ID="{9E5F7B1E-B125-4C2F-BE65-8932937852E1}" WorkUnitID="{1B973049-1C54-435F-8B15-C7983F0C646B}"/>
+									<ObjectRef Name="metal" ID="{6176AF68-0AD5-40C1-92F9-9F001FEE160B}" WorkUnitID="{1B973049-1C54-435F-8B15-C7983F0C646B}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -53,7 +53,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="test" ID="{9E5F7B1E-B125-4C2F-BE65-8932937852E1}" WorkUnitID="{1B973049-1C54-435F-8B15-C7983F0C646B}"/>
+									<ObjectRef Name="glass" ID="{255006E1-E8CD-4B47-A9C7-E18EC0F08736}" WorkUnitID="{1B973049-1C54-435F-8B15-C7983F0C646B}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="128">
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="128">
 	<RootPaths>
 		<ProjectRoot>/Users/alysebrown/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/MIT VRLC/seeing-sound_WwiseProject/</ProjectRoot>
-		<SourceFilesRoot>/Users/alysebrown/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/MIT VRLC/seeing-sound_WwiseProject/.cache/Windows/</SourceFilesRoot>
-		<SoundBanksRoot>/Users/alysebrown/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/MIT VRLC/seeing-sound_WwiseProject/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<SourceFilesRoot>/Users/alysebrown/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/MIT VRLC/seeing-sound_WwiseProject/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/alysebrown/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/MIT VRLC/seeing-sound_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>/Users/alysebrown/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/MIT VRLC/seeing-sound_WwiseProject/GeneratedSoundBanks/Windows/</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>/Users/alysebrown/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/MIT VRLC/seeing-sound_WwiseProject/GeneratedSoundBanks/Mac/</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
