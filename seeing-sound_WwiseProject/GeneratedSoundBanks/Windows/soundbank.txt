@@ -1,0 +1,15 @@
+Event	ID	Name			Wwise Object Path	Notes
+	95796577	playGlass			\Default Work Unit\playGlass	
+	996452028	playMetal			\Default Work Unit\playMetal	
+	2057747321	playPlastic			\Default Work Unit\playPlastic	
+	2111847568	playWood			\Default Work Unit\playWood	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	776667419	rtpc_example			\Default Work Unit\rtpc_example	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	826199898	tonal Impact	C:\Users\Student\Documents\seeing-sound\seeing-sound_WwiseProject\.cache\Windows\SFX\315725__nabz871__tonal-impact-e_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\test\tonal Impact		529264
+
