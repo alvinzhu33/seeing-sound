@@ -8,7 +8,6 @@ public class Test : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        Debug.Log("hello World");
 
       
 	}
@@ -18,14 +17,13 @@ public class Test : MonoBehaviour {
 
         yaxis = transform.position.y;
 
-        Debug.Log(yaxis);
 
         //AudioManager.singleton.PlayEvent(AudioManager.play_example, gameObject);
 
         //AudioManager.singleton.SetRTPC(AudioManager.rtpc_example, yaxis);
 
 
-        Debug.Log("noise!");
+
 
 
     }

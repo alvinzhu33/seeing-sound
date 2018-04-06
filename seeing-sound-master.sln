@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seeing-sound-master", "seeing-sound-master.csproj", "{3696F2AC-36A4-E475-B1BF-E95F3EEF086B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seeing-sound-master.Editor", "seeing-sound-master.Editor.csproj", "{348816A1-C7F8-FAF7-DECA-C87A8F481A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3696F2AC-36A4-E475-B1BF-E95F3EEF086B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3696F2AC-36A4-E475-B1BF-E95F3EEF086B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3696F2AC-36A4-E475-B1BF-E95F3EEF086B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3696F2AC-36A4-E475-B1BF-E95F3EEF086B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348816A1-C7F8-FAF7-DECA-C87A8F481A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348816A1-C7F8-FAF7-DECA-C87A8F481A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348816A1-C7F8-FAF7-DECA-C87A8F481A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348816A1-C7F8-FAF7-DECA-C87A8F481A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
