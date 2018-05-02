@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Room.unity
+- path: C:/Users/Student/Desktop/PEV_Unity/Assets/PEV_Unity.unity
   isLoaded: 1
   isActive: 1
